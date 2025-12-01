@@ -97,7 +97,7 @@
 <div align="center">
 
 ### 🔥 GitHub Streak  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=tokyo-night&hide_border=true" />
+<img src="https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github" />
 
 ### 📈 GitHub Stats  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
