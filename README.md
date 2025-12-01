@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
-<h2 align="center">🎛️ <b>Skill Levels (Button UI)</b></h2>
+<h2>🎛️ <b>Skill Levels (Button UI)</b></h2>
 
 <p align="center">
 
