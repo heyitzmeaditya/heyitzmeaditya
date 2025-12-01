@@ -47,40 +47,25 @@
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
 ---
-## 📊 Animated Skill Radar (Neon Edition)
+## 📊 Neon Skill Levels
 
 <p align="center">
-  
-  <!-- React / Next.js -->
-  <img src="https://progress-bar.dev/90/?title=React%20%2F%20Next.js&width=500&color=38BDF8&suffix=%25" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://progress-bar.dev/85/?title=Tailwind%20%2F%20CSS&width=500&color=AE7AFF&suffix=%25" />
-
-  <!-- Node.js / Express -->
-  <img src="https://progress-bar.dev/88/?title=Node.js%20%2F%20Express&width=500&color=FF47A3&suffix=%25" />
-
-  <!-- APIs / Auth / JWT -->
-  <img src="https://progress-bar.dev/85/?title=Auth%20%2F%20JWT&width=500&color=00E6FF&suffix=%25" />
-
-  <!-- Redis -->
-  <img src="https://progress-bar.dev/70/?title=Redis%20%2F%20Caching&width=500&color=14B8A6&suffix=%25" />
-
-  <!-- Databases -->
-  <img src="https://progress-bar.dev/80/?title=MongoDB%20%2F%20SQL&width=500&color=FACC15&suffix=%25" />
-
-  <!-- System Design -->
-  <img src="https://progress-bar.dev/65/?title=System%20Design&width=500&color=FB7185&suffix=%25" />
-
-  <!-- DSA -->
-  <img src="https://progress-bar.dev/78/?title=DSA%20%2F%20Algorithms&width=500&color=6366F1&suffix=%25" />
-
+  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-90%25-38BDF8?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Tailwind%20%2F%20CSS-85%25-AE7AFF?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-88%25-FF47A3?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Auth%20%2F%20JWT-85%25-00E6FF?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Redis%20%2F%20Caching-70%25-14B8A6?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Databases-80%25-FACC15?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/System%20Design-65%25-FB7185?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/DSA%20%2F%20Algorithms-78%25-6366F1?style=for-the-badge&labelColor=0f172a" />
 </p>
+
 
 ## 🧠 Developer Terminal — Cyberpunk OS v2.9
 
+```
 ┌───────────────────────────────────────────────┐
-│   INITIALIZING CYBERPUNK OS… ⚡                │
+│  INITIALIZING CYBERPUNK OS... ⚡              │
 └───────────────────────────────────────────────┘
 
 🟣 aditya@mainframe:~$ whoami
@@ -108,6 +93,8 @@
    🛠️ Build Real Products
    🧠 Solve Hard Problems
    💜 Stay Unstoppable
+```
+
 
 
 
