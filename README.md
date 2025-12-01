@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://imgur.com/oCaEOFE.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=26&duration=2400&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Aditya+Saw;Full+Stack+Engineer;Backend+Developer;DSA+%2B+System+Design;Welcome+to+My+Digital+Space+💫">
 </p>
+
 
 
 ---
