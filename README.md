@@ -46,7 +46,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
----
 ## 🎛️ Skill Levels (Button UI)
 
 <p align="center">
@@ -66,7 +65,6 @@
   <img src="https://img.shields.io/badge/DSA_/_Algorithms-78%25-6366f1?style=for-the-badge&logo=leetcode&logoColor=white" />
 
 </p>
----
 
 
 
