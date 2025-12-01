@@ -184,14 +184,10 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 📊 GitHub Stats (Static Style — Always Works)
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-0-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Commits-0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-0-green?style=for-the-badge" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
 </p>
-
 
 
 
