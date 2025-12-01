@@ -184,20 +184,22 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 📊 GitHub Streak + Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <!-- Streak -->
+
   <img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=tokyonight&hide_border=true" />
-  <br/>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
+  <br/><br/>
 
-  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&theme=tokyonight&show_icons=true&hide_border=true" />
+
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
+
 
 
 
