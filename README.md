@@ -20,6 +20,15 @@
   <a href="mailto:adityasaw407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/heyitzmeaditya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/aditya_100_/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://discord.com/users/heyitzmeaditya"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧬 Live Discord Status
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/heyitzmeaditya?theme=dark&borderRadius=10px&animated=true&idleMessage=Probably%20building%20something%20cool%20💻" />
 </p>
 
 ---
@@ -28,11 +37,11 @@
 
 - ✨ Full-Stack Developer focused on **Next.js + MERN**
 - ⚙️ Deep interest in **backend architecture, APIs & scalability**
-- 🧠 Strong in **DSA, C++ & problem solving**
-- 🔐 Comfortable with **auth, JWT, security, Redis**
-- 📊 Experience with **MongoDB · PostgreSQL · MySQL**
-- 🎮 Tech + Gamer mindset → Love **clean futuristic UI**
-- 🎯 Goal → Become **Top 1% Full Stack Developer**
+- 🧠 Strong base in **DSA, C++ & problem solving**
+- 🔐 Comfortable with **auth, JWT, sessions, security & Redis**
+- 📊 Work with **MongoDB · PostgreSQL · MySQL**
+- 🎮 Tech + gaming + design mindset — love **clean, futuristic UIs**
+- 🎯 Goal: **Top 1% developer** with strong full-stack & system design skills
 
 ---
 
@@ -40,26 +49,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
----
-
 ## 🛠 Tech Stack — 3D Neon Wall
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
-
 ---
-
-## 📊 Skill Radar (Neon Bars — Stable Version)
-
-React / Next.js ████████████████░░ 90%
-Tailwind / CSS ██████████████░░░░ 85%
-Node.js / Express ███████████████░░░ 88%
-REST APIs / JWT ██████████████░░░░ 85%
-Redis / Caching ████████████░░░░░░ 70%
-MongoDB / SQL █████████████░░░░░ 80%
-System Design ███████████░░░░░░░ 65%
-DSA / Algorithms █████████████░░░░░ 78%
+## 📊 Animated Skill Radar (Neon Edition)
 
 <p align="center">
   
@@ -91,20 +87,19 @@ DSA / Algorithms █████████████░░░░░ 78%
 
 ## 🧠 Developer Terminal
 
-root@aditya:~$ whoami
-> Full Stack Developer | Backend Engineer
+root@aditya:~$ whoami  
+> Full Stack Developer | Backend Engineer  
 
-root@aditya:~$ skills --core
-> Next.js, React, Node.js, Express, MongoDB, SQL, Redis, JWT, DSA
+root@aditya:~$ skills --core  
+> Next.js, React, Node.js, Express, MongoDB, SQL, Redis, JWT, DSA  
 
-root@aditya:~$ now
-> Coding, learning, and levelling up every day ⚡
+root@aditya:~$ now  
+> Coding, learning, and levelling up every day ⚡  
 
-root@aditya:~$ mission
-> Build real products · Solve hard problems · Stay unstoppable
+root@aditya:~$ mission  
+> Build real products · Solve hard problems · Stay unstoppable  
 
 
----
 
 ## 🎮 Mini Games Zone
 
@@ -127,10 +122,7 @@ root@aditya:~$ mission
   </a>
 </p>
 
----
-
 ## ⚔️ DSA — LeetCode Journey
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
@@ -138,7 +130,6 @@ root@aditya:~$ mission
 ---
 
 ## 🏆 Achievements — Neo Medal Edition
-
 <p align="center">
   <img src="https://img.shields.io/badge/300%2B_DSA_Problems-AE7AFF?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-38BDF8?style=for-the-badge&labelColor=0f172a" />
@@ -157,21 +148,22 @@ Encrypted notes system with JWT auth, Redis caching & production-ready Node back
 Interactive dashboard showing insights, performance metrics & client analytics.
 
 📱 **Task Manager App (MERN + Auth)**  
-Clean task workflow app with CRUD, protected routes & modern UI.
+Clean task workflow application with CRUD, protected routes & modern UI.
 
 🛒 **E-Commerce API (Node.js + Stripe)**  
-REST API for products, users, cart, checkout & payments.
+REST API for products, users, cart, and payments with Stripe integration.
 
-💬 **Real-Time Chat App (Socket.io + Node)**  
-Multi-room chat with live typing indicators.
+💬 **Real-Time Chat App (Node + Socket.io)**  
+Multi-room real-time chat with typing indicators & message persistence.
 
 🧠 **DSA Visualizer**  
-Visualization tool to learn sorting, recursion & trees.
+Visual tool to understand sorting, recursion & binary trees.
 
 🔗 **URL Shortener (Node + Redis)**  
-High-speed short links with caching + analytics.
+Fast link shortener with Redis caching & analytics.
 
 ---
+
 ## 🧭 Developer Journey Roadmap
 2022 → Started coding, explored basics of programming
 2023 → Focused on C++, DSA, problem solving and core CS
@@ -182,11 +174,7 @@ High-speed short links with caching + analytics.
 
 ---
 
-
----
-
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=heyitzmeaditya&theme=juicyfresh&no-frame=true&row=1&column=7" />
 </p>
@@ -195,39 +183,37 @@ High-speed short links with caching + analytics.
 
 ## 📊 GitHub Analytics — Glass + Neon
 
-### ⚡ Custom Streak
+### ⚡ Custom Neon Streak (Always Works)
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1">
+  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1"><br/>
+  <img src="https://img.shields.io/badge/⚡_Consistency-High-38BDF8?style=for-the-badge&labelColor=0f172a&color=14B8A6"><br/>
+  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-AE7AFF?style=for-the-badge&labelColor=0f172a&color=EC4899">
 </p>
 
 ---
 
-## 📈 GitHub Stats (Filtered by Year)
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Aditya%27s%20Stats%20(2025)" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
 </p>
 
 ---
 
 ## 🧪 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🔥 Activity Graph (YEAR FILTER)
-
+## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Activity%20Graph%20(2025)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🎮 Gamer Badges
-
 <p align="center">
   <img src="https://img.shields.io/badge/XP-9000%2B-00E676?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Skill_Level-Legendary-FF4757?style=for-the-badge" />
@@ -237,7 +223,6 @@ High-speed short links with caching + analytics.
 ---
 
 ## 👁 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heyitzmeaditya&style=for-the-badge&color=38BDF8" />
 </p>
@@ -245,3 +230,5 @@ High-speed short links with caching + analytics.
 ---
 
 <h2 align="center">🔥 Becoming Better Every Single Day 🔥</h2>
+
+
