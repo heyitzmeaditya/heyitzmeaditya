@@ -25,14 +25,6 @@
 
 ---
 
-## 🧬 Live Discord Status
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/heyitzmeaditya?theme=dark&borderRadius=10px&animated=true&idleMessage=Probably%20building%20something%20cool%20💻" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - ✨ Full-Stack Developer focused on **Next.js + MERN**
@@ -87,63 +79,55 @@
 
 ## 🧠 Developer Terminal — Cyberpunk OS v2.9
 
-┌───────────────────────────────────────────┐
-│   INITIALIZING CYBERPUNK OS… ⚡            │
-└───────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│   INITIALIZING CYBERPUNK OS… ⚡                │
+└───────────────────────────────────────────────┘
 
 🟣 aditya@mainframe:~$ whoami
-  👤 Identity: Full Stack Developer
-  ⚙️ Role: Backend Engineer
-  🧬 Mode: High-Performance
+   👤 Identity: Full Stack Developer
+   🧩 Role: Backend Engineer
+   🎯 Mode: High-Performance
 
 🟣 aditya@mainframe:~$ skills --core
-  🟪 Frameworks: Next.js · React
-  🟦 Backend: Node.js · Express
-  🟩 Databases: MongoDB · SQL · Redis
-  🔐 Security: JWT · Auth · Sessions
-  🧠 DSA: Problem Solving · Algorithms
+   🌐 Frameworks: Next.js · React
+   🔧 Backend: Node.js · Express
+   🗄️ Databases: MongoDB · SQL · Redis
+   🔐 Security: JWT · Auth · Sessions
+   🧠 DSA: Problem Solving · Algorithms
 
 🟣 aditya@mainframe:~$ system-status
-  🔥 CPU: Learning at 100%
-  🚀 Productivity: Boosted
-  ⚡ Focus Mode: ACTIVE
-  🧩 Debug Mode: ALWAYS ON
+   🔥 CPU: Learning at 100%
+   🚀 Productivity: Boosted
+   ⚡ Focus Mode: ACTIVE
+   🧪 Debug Mode: ALWAYS ON
 
 🟣 aditya@mainframe:~$ now
-  ⚡ Building · Learning · Leveling Up Daily
+   ⚡ Building · Learning · Leveling Up Daily
 
 🟣 aditya@mainframe:~$ mission
-  🛠 Build Real Products
-  🧠 Solve Hard Problems
-  💜 Stay Unstoppable
+   🛠️ Build Real Products
+   🧠 Solve Hard Problems
+   💜 Stay Unstoppable
 
 
 
 
-## 🎮 Mini Games Zone
-
-### 🐍 Snake (Contribution Snake)
+## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-## 🔮 Cyberpunk Matrix Animation
+### ⏳ View My GitHub Activity by Year
 <p align="center">
-  <img src="https://i.imgur.com/MZcQq8t.gif" width="700" alt="matrix cyberpunk animation" />
-</p>
-
----
-
-## 🦖 Dino Run — Animated GIF
-<p align="center">
-  <img src="https://i.imgur.com/wCEpUud.gif" width="550" alt="dino run gif" />
-</p>
-
----
-
-## 🎮 Tetris Neon Animation
-<p align="center">
-  <img src="https://i.imgur.com/0aQPw0S.gif" width="500" alt="tetris animation" />
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/2023_Activity-7E57C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024_Activity-42A5F5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025_Activity-66BB6A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 
