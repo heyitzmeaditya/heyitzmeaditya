@@ -183,19 +183,34 @@ Fast link shortener with Redis caching & analytics.
 </p>
 
 ---
-
 ## 📊 GitHub Analytics — Glass + Neon
 
-### ⚡ Custom Neon Streak (Always Works)
+### ⚡ Custom Neon Streak 
 <p align="center">
   <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1"><br/>
   <img src="https://img.shields.io/badge/⚡_Consistency-High-38BDF8?style=for-the-badge&labelColor=0f172a&color=14B8A6"><br/>
   <img src="https://img.shields.io/badge/🚀_Momentum-Growing-AE7AFF?style=for-the-badge&labelColor=0f172a&color=EC4899">
 </p>
 
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+</p>
+
+---
+
+## 🧪 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
