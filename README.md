@@ -97,7 +97,20 @@
 <div align="center">
 
 ### 🔥 GitHub Streak  
-<img src="https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github" />
+<div align="center">
+
+### 🔥 GitHub Streak
+
+<img src="https://img.shields.io/badge/Current%20Streak-Active-00E676?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/🔥%20Daily%20Contribution%20Status-ON-2962FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/⚡%20Consistency%20Level-High-FF5722?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/📅%20Developer%20Activity-Active%20Now-9C27B0?style=for-the-badge" />
+
+</div>
+
 
 ### 📈 GitHub Stats  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
