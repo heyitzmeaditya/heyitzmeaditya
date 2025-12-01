@@ -47,18 +47,24 @@
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
 ---
-## 📊 Neon Skill Levels
+## 🧪 Neon Skill Levels (Glass UI)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-90%25-38BDF8?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Tailwind%20%2F%20CSS-85%25-AE7AFF?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-88%25-FF47A3?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Auth%20%2F%20JWT-85%25-00E6FF?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Redis%20%2F%20Caching-70%25-14B8A6?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Databases-80%25-FACC15?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/System%20Design-65%25-FB7185?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/DSA%20%2F%20Algorithms-78%25-6366F1?style=for-the-badge&labelColor=0f172a" />
+
+  <img src="https://img.shields.io/badge/React_%2F_Next.js-90%25-0ea5e9?style=flat&logo=react&logoColor=white&labelColor=0F172A&color=38BDF8" />
+  <img src="https://img.shields.io/badge/Tailwind_%2F_CSS-85%25-818CF8?style=flat&logo=tailwindcss&logoColor=white&labelColor=0F172A&color=AE7AFF" />
+  <img src="https://img.shields.io/badge/Node.js_%2F_Express-88%25-f43f5e?style=flat&logo=node.js&logoColor=white&labelColor=0F172A&color=EC4899" />
+  <img src="https://img.shields.io/badge/Auth_%2F_JWT-85%25-06B6D4?style=flat&labelColor=0F172A&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Redis_%2F_Caching-70%25-0d9488?style=flat&logo=redis&logoColor=white&labelColor=0F172A&color=14B8A6" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Databases-80%25-facc15?style=flat&logo=mongodb&logoColor=white&labelColor=0F172A&color=FACC15" />
+  <img src="https://img.shields.io/badge/System_Design-65%25-f87171?style=flat&labelColor=0F172A&color=F87171" />
+  <img src="https://img.shields.io/badge/DSA_%2F_Algorithms-78%25-6366f1?style=flat&labelColor=0F172A&color=6366F1" />
+
 </p>
+
 
 
 ## 🧠 Developer Terminal — Cyberpunk OS v2.9
@@ -156,11 +162,13 @@ Fast link shortener with Redis caching & analytics.
 ---
 
 ## 🧭 Developer Journey Roadmap
-2022 → Started coding, explored basics of programming
-2023 → Focused on C++, DSA, problem solving and core CS
-2024 → Built backends, dashboards, and real projects for people
-2025 → Leveling up in Next.js, MERN, DevOps & system design
-2026 → Target: Strong full-stack engineer with deep backend + DSA
+
+🔹 **2022** → Started coding & exploring programming fundamentals  
+🔹 **2023** → Focused on C++, DSA, problem solving & core CS  
+🔹 **2024** → Built MERN backends, dashboards & real client projects  
+🔹 **2025** → Mastering Next.js, MERN, DevOps & system design  
+🔹 **2026** → Goal: Strong full-stack engineer with deep backend + DSA  
+
 
 
 ---
