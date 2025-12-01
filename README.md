@@ -1,7 +1,6 @@
 <!-- ========================================= -->
 <!-- 🌌 ULTRA-PREMIUM NEON + GLASS HERO -->
 <!-- ========================================= -->
-
 <h1>
   Hi &nbsp;<img src="https://raw.githubusercontent.com/heyitzmeaditya/cdn/main/wave-purple.gif" width="70"/> &nbsp;I'm <b>Aditya Saw</b>
 </h1>
