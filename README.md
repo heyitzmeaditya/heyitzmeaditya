@@ -184,34 +184,28 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 📊 GitHub Analytics — Glass + Neon
+## 🌟 GitHub Stats — Neon Glass Dashboard
 
-### ⚡ Custom Neon Streak (Always Works)
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1"><br/>
-  <img src="https://img.shields.io/badge/⚡_Consistency-High-38BDF8?style=for-the-badge&labelColor=0f172a&color=14B8A6"><br/>
-  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-AE7AFF?style=for-the-badge&labelColor=0f172a&color=EC4899">
-</p>
 
----
+  <!-- CURRENT STREAK -->
+  <img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=neon-dark&hide_border=true&border_radius=10&ring=FF47A3&fire=FF8A00&currStreakLabel=38BDF8" height="180" />
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
-</p>
+  <br/><br/>
 
----
+  <!-- MAIN GITHUB STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 
-## 🧪 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight" height="180" />
-</p>
+  <br/><br/>
 
----
+  <!-- LANGUAGES USED -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-## 🔥 Activity Graph
-<p align="center">
+  <br/><br/>
+
+  <!-- ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=react-dark&hide_border=true&area=true" />
+
 </p>
 
 ---
