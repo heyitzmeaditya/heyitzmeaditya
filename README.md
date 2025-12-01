@@ -96,20 +96,16 @@
 ## 📊 GitHub Analytics — SUPER ADVANCED UI
 <div align="center">
 
-### 🔥 GitHub Streak  
-<div align="center">
+<p align="center">
 
-### 🔥 GitHub Streak
+<img src="https://img.shields.io/badge/🔥%20Streak%20Mode-ENABLED-0ea5e9?style=for-the-badge&labelColor=0f172a&color=3b82f6">
 
-<img src="https://img.shields.io/badge/Current%20Streak-Active-00E676?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📅%20Active%20Days-Consistent-22c55e?style=for-the-badge&labelColor=0f172a">
 
-<img src="https://img.shields.io/badge/🔥%20Daily%20Contribution%20Status-ON-2962FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡%20Developer%20Momentum-High-f43f5e?style=for-the-badge&labelColor=0f172a">
 
-<img src="https://img.shields.io/badge/⚡%20Consistency%20Level-High-FF5722?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/📅%20Developer%20Activity-Active%20Now-9C27B0?style=for-the-badge" />
-
-</div>
 
 
 ### 📈 GitHub Stats  
