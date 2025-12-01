@@ -85,19 +85,38 @@
 
 </p>
 
-## 🧠 Developer Terminal
+## 🧠 Developer Terminal — Cyberpunk OS v2.9
 
-root@aditya:~$ whoami  
-> Full Stack Developer | Backend Engineer  
+┌───────────────────────────────────────────┐
+│   INITIALIZING CYBERPUNK OS… ⚡            │
+└───────────────────────────────────────────┘
 
-root@aditya:~$ skills --core  
-> Next.js, React, Node.js, Express, MongoDB, SQL, Redis, JWT, DSA  
+🟣 aditya@mainframe:~$ whoami
+  👤 Identity: Full Stack Developer
+  ⚙️ Role: Backend Engineer
+  🧬 Mode: High-Performance
 
-root@aditya:~$ now  
-> Coding, learning, and levelling up every day ⚡  
+🟣 aditya@mainframe:~$ skills --core
+  🟪 Frameworks: Next.js · React
+  🟦 Backend: Node.js · Express
+  🟩 Databases: MongoDB · SQL · Redis
+  🔐 Security: JWT · Auth · Sessions
+  🧠 DSA: Problem Solving · Algorithms
 
-root@aditya:~$ mission  
-> Build real products · Solve hard problems · Stay unstoppable  
+🟣 aditya@mainframe:~$ system-status
+  🔥 CPU: Learning at 100%
+  🚀 Productivity: Boosted
+  ⚡ Focus Mode: ACTIVE
+  🧩 Debug Mode: ALWAYS ON
+
+🟣 aditya@mainframe:~$ now
+  ⚡ Building · Learning · Leveling Up Daily
+
+🟣 aditya@mainframe:~$ mission
+  🛠 Build Real Products
+  🧠 Solve Hard Problems
+  💜 Stay Unstoppable
+
 
 
 
@@ -108,24 +127,25 @@ root@aditya:~$ mission
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### 🎮 Tetris
+## 🔮 Cyberpunk Matrix Animation
 <p align="center">
-  <a href="https://tetris.com/play-tetris">
-    <img src="https://img.shields.io/badge/Play_Tetris-FF47A3?style=for-the-badge&logo=gamejolt&logoColor=white" />
-  </a>
+  <img src="https://i.imgur.com/MZcQq8t.gif" width="700" alt="matrix cyberpunk animation" />
 </p>
 
-### 🕹️ Flappy Bird
+---
+
+## 🦖 Dino Run — Animated GIF
 <p align="center">
-  <a href="https://flappybird.io/">
-    <img src="https://img.shields.io/badge/Play_Flappy_Bird-38BDF8?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
+  <img src="https://i.imgur.com/wCEpUud.gif" width="550" alt="dino run gif" />
 </p>
 
-## ⚔️ DSA — LeetCode Journey
+---
+
+## 🎮 Tetris Neon Animation
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://i.imgur.com/0aQPw0S.gif" width="500" alt="tetris animation" />
 </p>
+
 
 ---
 
