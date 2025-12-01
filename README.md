@@ -2,9 +2,10 @@
 <!-- 🌌 ULTRA-PREMIUM NEON + GLASS HERO -->
 <!-- ========================================= -->
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=700&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1200&lines=Hi+I'm+Aditya+Saw+🚀;Full+Stack+Developer+%7C+Backend+Engineer;Next.js+%2F+MERN+Specialist;System+Design+%26+DSA+Enthusiast;Welcome+to+My+GitHub+Universe+✨" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=INSERT+COIN...;STARTING+DEVELOPER+MODE...;LOADING+NEXT+LEVEL...;UPGRADING+SKILLS..." /> </p> <p align="center">🎮 ✖️ ⭕ 🔺 ▢ 🎮</p>
+Hi <img src="https://media.tenor.com/Ug6cbva2Qp8AAAAi/discord.gif" width="35"/> My name is Aditya Saw
 
-<!-- <p align="center">
+
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=700&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1200&lines=Hi+I'm+Aditya+Saw+🚀;Full+Stack+Developer+%7C+Backend+Engineer;Next.js+%2F+MERN+Specialist;System+Design+%26+DSA+Enthusiast;Welcome+to+My+GitHub+Universe+✨" />
 </p>
 
@@ -12,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=INSERT+COIN...;STARTING+DEVELOPER+MODE...;LOADING+NEXT+LEVEL...;UPGRADING+SKILLS..." />
 </p>
 
-<p align="center">🎮 ✖️ ⭕ 🔺 ▢ 🎮</p> -->
+<p align="center">🎮 ✖️ ⭕ 🔺 ▢ 🎮</p> 
 
 ---
 
