@@ -184,23 +184,19 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 🌟 GitHub Streak + Stats
+## 📊 GitHub Streak + Stats
 
 <p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=tokyonight&hide_border=true" />
+  <br/>
 
-  <!-- TOTAL CONTRIBUTIONS THIS YEAR -->
-  <img src="https://img.shields.io/github/commit-activity/y/adityasaw407?label=Total%20Contributions%20(Year)&color=38BDF8&style=for-the-badge" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
 
-  <br/><br/>
-
-  <!-- CURRENT GITHUB STREAK -->
-  <img src="https://streak-stats.demolab.com?user=adityasaw407&theme=tokyonight&hide_border=true&border_radius=8" />
-
-  <br/><br/>
-
-  <!-- TOTAL COMMITS ALL TIME -->
-  <img src="https://img.shields.io/github/commit-activity/all/adityasaw407?label=Total%20Commits%20(All%20Time)&color=AE7AFF&style=for-the-badge" />
-
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
