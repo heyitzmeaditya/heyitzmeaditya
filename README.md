@@ -184,20 +184,13 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 🔥 GitHub Stats
+## 🔢 Total GitHub Contributions (This Year)
 
 <p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&theme=tokyonight&show_icons=true&hide_border=true" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://img.shields.io/github/commit-activity/y/heyitzmeaditya?label=Contributions%20This%20Year&color=38BDF8&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/all/heyitzmeaditya?label=Total%20Commits%20(All%20Time)&color=AE7AFF&style=for-the-badge" />
 </p>
 
 
