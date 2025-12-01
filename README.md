@@ -189,19 +189,20 @@ Fast link shortener with Redis caching & analytics.
 <p align="center">
 
   <!-- TOTAL CONTRIBUTIONS THIS YEAR -->
-  <img src="https://img.shields.io/github/commit-activity/y/heyitzmeaditya?label=Total%20Contributions%20(Year)&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/adityasaw407?label=Total%20Contributions%20(Year)&color=38BDF8&style=for-the-badge" />
 
   <br/><br/>
 
-  <!-- CURRENT STREAK -->
-  <img src="https://streak-stats.demolab.com/?user=heyitzmeaditya&theme=tokyonight&hide_border=true&border_radius=8" />
+  <!-- CURRENT GITHUB STREAK -->
+  <img src="https://streak-stats.demolab.com?user=adityasaw407&theme=tokyonight&hide_border=true&border_radius=8" />
 
   <br/><br/>
 
   <!-- TOTAL COMMITS ALL TIME -->
-  <img src="https://img.shields.io/github/commit-activity/all/heyitzmeaditya?label=Total%20Commits%20(All%20Time)&color=AE7AFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/all/adityasaw407?label=Total%20Commits%20(All%20Time)&color=AE7AFF&style=for-the-badge" />
 
 </p>
+
 
 
 ---
