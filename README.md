@@ -47,25 +47,18 @@
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
 </p>
 ---
-## 🧪 Neon Skill Levels (Glass UI)
+## 🎛️ Skill Levels (Clean UI)
 
-<p align="center">
-
-  <!-- Row 1 (Frontend + Backend Core) -->
-  <img src="https://img.shields.io/badge/React_%2F_Next.js-90%25-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Tailwind_%2F_CSS-85%25-AE7AFF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Node.js_%2F_Express-88%25-EC4899?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Auth_%2F_JWT-85%25-06B6D4?style=for-the-badge&logo=jwt&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Redis_%2F_Caching-70%25-14B8A6?style=for-the-badge&logo=redis&logoColor=white&labelColor=0F172A" />
-
-  <br/><br/>
-
-  <!-- Row 2 (Foundations + CS Skills) -->
-  <img src="https://img.shields.io/badge/Databases-80%25-FACC15?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/System_Design-65%25-F87171?style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/DSA_%2F_Algorithms-78%25-6366F1?style=for-the-badge&labelColor=0F172A" />
-
-</p>
+| **Skill**                 | **Level** |
+|--------------------------|-----------|
+| ⚛️ React / Next.js        | ██████████░ 90% |
+| 🎨 Tailwind / CSS         | █████████░░ 85% |
+| 🟢 Node.js / Express      | █████████░░ 88% |
+| 🔐 Auth / JWT             | █████████░░ 85% |
+| 🗄️ Databases (MongoDB, SQL) | ████████░░░ 80% |
+| 🚀 Redis / Caching        | ██████░░░░░ 70% |
+| 🧠 System Design          | █████░░░░░░ 65% |
+| 📘 DSA / Algorithms       | ████████░░░ 78% |
 
 
 
