@@ -58,30 +58,30 @@
 ## 📊 Animated Skill Radar (Neon Edition)
 
 <p align="center">
+  
+  <!-- React / Next.js -->
+  <img src="https://progress-bar.dev/90/?title=React%20%2F%20Next.js&width=500&color=38BDF8&suffix=%25" />
 
-<!-- React / Next.js -->
-<img src="https://svg-badge.vercel.app/api/progress?title=React%20%2F%20Next.js&percent=90&color=38BDF8&animation=1200" />
+  <!-- Tailwind CSS -->
+  <img src="https://progress-bar.dev/85/?title=Tailwind%20%2F%20CSS&width=500&color=AE7AFF&suffix=%25" />
 
-<!-- Tailwind / CSS -->
-<img src="https://svg-badge.vercel.app/api/progress?title=Tailwind%20%2F%20CSS&percent=85&color=AE7AFF&animation=1400" />
+  <!-- Node.js / Express -->
+  <img src="https://progress-bar.dev/88/?title=Node.js%20%2F%20Express&width=500&color=FF47A3&suffix=%25" />
 
-<!-- Node.js / Express -->
-<img src="https://svg-badge.vercel.app/api/progress?title=Node.js%20%2F%20Express&percent=88&color=FF47A3&animation=1500" />
+  <!-- APIs / Auth / JWT -->
+  <img src="https://progress-bar.dev/85/?title=Auth%20%2F%20JWT&width=500&color=00E6FF&suffix=%25" />
 
-<!-- Auth / JWT -->
-<img src="https://svg-badge.vercel.app/api/progress?title=Auth%20%2F%20JWT%20%2F%20APIs&percent=85&color=00E6FF&animation=1600" />
+  <!-- Redis -->
+  <img src="https://progress-bar.dev/70/?title=Redis%20%2F%20Caching&width=500&color=14B8A6&suffix=%25" />
 
-<!-- Redis -->
-<img src="https://svg-badge.vercel.app/api/progress?title=Redis%20%2F%20Caching&percent=70&color=14B8A6&animation=1700" />
+  <!-- Databases -->
+  <img src="https://progress-bar.dev/80/?title=MongoDB%20%2F%20SQL&width=500&color=FACC15&suffix=%25" />
 
-<!-- Databases -->
-<img src="https://svg-badge.vercel.app/api/progress?title=MongoDB%20%2F%20SQL&percent=80&color=FACC15&animation=1800" />
+  <!-- System Design -->
+  <img src="https://progress-bar.dev/65/?title=System%20Design&width=500&color=FB7185&suffix=%25" />
 
-<!-- System Design -->
-<img src="https://svg-badge.vercel.app/api/progress?title=System%20Design&percent=65&color=FB7185&animation=1900" />
-
-<!-- DSA -->
-<img src="https://svg-badge.vercel.app/api/progress?title=DSA%20%2F%20Algorithms&percent=78&color=6366F1&animation=2000" />
+  <!-- DSA -->
+  <img src="https://progress-bar.dev/78/?title=DSA%20%2F%20Algorithms&width=500&color=6366F1&suffix=%25" />
 
 </p>
 
