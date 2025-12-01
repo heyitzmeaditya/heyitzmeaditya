@@ -184,13 +184,12 @@ Fast link shortener with Redis caching & analytics.
 
 ---
 
-## 🔢 Total GitHub Contributions (This Year)
+## 📊 GitHub Stats (Static Style — Always Works)
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/heyitzmeaditya?label=Contributions%20This%20Year&color=38BDF8&style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/all/heyitzmeaditya?label=Total%20Commits%20(All%20Time)&color=AE7AFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-0-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Commits-0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-0-green?style=for-the-badge" />
 </p>
 
 
