@@ -51,19 +51,22 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/React_%2F_Next.js-90%25-0ea5e9?style=flat&logo=react&logoColor=white&labelColor=0F172A&color=38BDF8" />
-  <img src="https://img.shields.io/badge/Tailwind_%2F_CSS-85%25-818CF8?style=flat&logo=tailwindcss&logoColor=white&labelColor=0F172A&color=AE7AFF" />
-  <img src="https://img.shields.io/badge/Node.js_%2F_Express-88%25-f43f5e?style=flat&logo=node.js&logoColor=white&labelColor=0F172A&color=EC4899" />
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/React_%2F_Next.js-90%25-38BDF8?style=flat&logo=react&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Tailwind_%2F_CSS-85%25-AE7AFF?style=flat&logo=tailwindcss&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Node.js_%2F_Express-88%25-EC4899?style=flat&logo=node.js&logoColor=white&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/Auth_%2F_JWT-85%25-06B6D4?style=flat&labelColor=0F172A&color=06B6D4" />
-  <img src="https://img.shields.io/badge/Redis_%2F_Caching-70%25-0d9488?style=flat&logo=redis&logoColor=white&labelColor=0F172A&color=14B8A6" />
+  <img src="https://img.shields.io/badge/Redis_%2F_Caching-70%25-14B8A6?style=flat&logo=redis&logoColor=white&labelColor=0F172A" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/Databases-80%25-facc15?style=flat&logo=mongodb&logoColor=white&labelColor=0F172A&color=FACC15" />
-  <img src="https://img.shields.io/badge/System_Design-65%25-f87171?style=flat&labelColor=0F172A&color=F87171" />
-  <img src="https://img.shields.io/badge/DSA_%2F_Algorithms-78%25-6366f1?style=flat&labelColor=0F172A&color=6366F1" />
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Databases-80%25-FACC15?style=flat&logo=mongodb&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/System_Design-65%25-F87171?style=flat&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/DSA_%2F_Algorithms-78%25-6366F1?style=flat&labelColor=0F172A" />
 
 </p>
+
 
 
 
