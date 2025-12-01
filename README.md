@@ -1,93 +1,111 @@
-<!-- PREMIUM NEON TYPING BANNER -->
+<!-- ======================================== -->
+<!-- 🌈 PREMIUM GLASS + NEON TYPING BANNER -->
+<!-- ======================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aditya+Saw+🚀;Full+Stack+Developer;Backend+Engineer;MERN+%7C+Next.js+Specialist;System+Design+%26+DSA+Enthusiast;Turning+Ideas+Into+Impact+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aditya+Saw+🚀;Full+Stack+Developer;Backend+Architect;MERN+%2B+Next.js+Specialist;System+Design+%26+DSA+Enthusiast;Welcome+to+My+Digital+Universe+✨" />
 </p>
 
-<br/>
+<!-- ======================================== -->
+<!-- 🎮 RETRO ARCADE INTRO -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+GITHUB+ARCADE;PRESS+START+TO+BEGIN;LOADING+SKILLS...;BOOTING+FULL+STACK+DEVELOPER+MODE..." />
+</p>
+
+<!-- ======================================== -->
+<!-- 🎮 PLAYSTATION DIVIDER -->
+<!-- ======================================== -->
+<p align="center">
+  🎮 ✖️ ⭕ 🔺 ▢ 🎮
+</p>
 
 <div align="center">
-  
-### ⚡ *Building scalable systems with clean & modern tech.*  
-### 🔥 *“Consistency makes you unstoppable.”*  
+
+## ⚡ Building scalable apps · Solving complex problems · Writing clean code  
+### 🔥 “Consistency makes you unstoppable.”
 
 </div>
 
 ---
 
-# 🌐 **Connect With Me**
+# 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:adityasaw407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/heyitzmeaditya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adityasaw407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/heyitzmeaditya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/aditya_100_/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://discord.com/users/heyitzmeaditya"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-# 👨‍💻 **About Me**
-
-💡 Passionate Full-Stack Developer specializing in **MERN & Next.js**  
-⚙️ Experienced in **API design, Auth/JWT, CI/CD, Microservices basics**  
-🧠 Strong foundation in **Data Structures, Algorithms & System Design**  
-💾 Excellent understanding of **MongoDB, MySQL, PostgreSQL**  
-🔥 Love building **clean, modern, scalable** applications  
-🚀 Always working to become **top 1% developer**  
-
----
-
-# 🛠️ **Tech Stack (Premium Icons UI)**
-
-## 🎨 **Frontend**
+# 🟣 Discord — Live Status
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&theme=dark" height="95">
-</p>
-
-## ⚙️ **Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" height="95">
-</p>
-
-## 🗄️ **Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" height="95">
-</p>
-
-## 🧪 **DevOps & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,docker,vscode&theme=dark" height="95">
-</p>
-
-## 🧠 **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" height="95">
+  <img src="https://lanyard.cnrad.dev/api/heyitzmeaditya?theme=dark&borderRadius=8px&idleMessage=Probably%20building%20something%20cool%20💻" />
 </p>
 
 ---
 
-# ⚔️ **DSA — LeetCode Journey**
+# 👨‍💻 About Me
+
+✨ Full-Stack Developer (MERN + Next.js)  
+⚙️ Backend engineering: scalable APIs, JWT, Redis, CI/CD  
+🧠 DSA & system design enthusiast  
+🔥 Passionate about beautiful UI + powerful backend systems  
+📊 Strong experience with MongoDB, PostgreSQL & MySQL  
+🎮 Love gaming, clean UI, and futuristic design  
+
+---
+
 <p align="center">
-  <a href="https://leetcode.com/u/aditya_100_/">
-    <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=JetBrains%20Mono&ext=activity" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+# 🛠 Tech Stack – 3D Premium Wall
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,python,java&theme=light" />
 </p>
 
 ---
 
-# 🏆 **Achievements**
-✔ Solved 300+ DSA questions  
-✔ Built production-grade MERN applications  
-✔ Strong grasp of backend architecture  
-✔ Created dashboards & automation tools  
-✔ Experience handling real clients  
+# ⚔️ DSA — LeetCode Journey
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=Fira+Code&ext=activity" />
+</p>
 
 ---
 
-# 💼 **Experience**
-### **Software Developer (Projects & Freelance)**
-- Built secure, full-stack MERN applications  
-- Implemented JWT Auth + Role Management + Redis Caching  
-- Created dashboards using Tableau + Excel  
-- Designed REST APIs with scalability in mind  
-- Delivered real-world client projects with strong results  
+# 🏆 Achievements (Glass Cards)
+<p align="center">
+
+<img src="https://img.shields.io/badge/300%2B_DSA_Problems-Gradient?style=for-the-badge&color=14b8a6&labelColor=0f172a" />
+
+<img src="https://img.shields.io/badge/Full_Stack_Developer-Gradient?style=for-the-badge&color=6366f1&labelColor=0f172a" />
+
+<img src="https://img.shields.io/badge/Backend_Engineer-Gradient?style=for-the-badge&color=ec4899&labelColor=0f172a" />
+
+<img src="https://img.shields.io/badge/Next.js_Specialist-Gradient?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+
+</p>
+
+---
+
+# 💼 Experience (Premium Timeline)
+
+```diff
++ 2025 — Full Stack Developer (Next.js, MERN, DevOps)
+  • Built secure MERN apps with JWT, Redis, scalable API design
+  • Worked on dashboards, client systems, automations
+
++ 2024 — Data & Marketing Systems Developer
+  • Created marketing dashboards (Excel + Tableau)
+  • Automated reports and analytics
+
++ 2023 — DSA & Backend Foundations
+  • Mastered C++, problem solving, algorithms
+
 
 ---
 
