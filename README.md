@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=26&duration=2400&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Aditya+Saw;Full+Stack+Engineer;Backend+Developer;DSA+%2B+System+Design;Welcome+to+My+Digital+Space+💫">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=900&color=00F0FF,D946EF,FF8A00,38BDF8&center=true&vCenter=true&width=900&lines=Aditya+Saw+🌐;Full+Stack+Developer+%7C+Backend+Engineer;Expert+in+MERN+%26+Next.js;Loves+System+Design+%26+DSA;Turning+Ideas+Into+Reality+🚀">
 </p>
+
 
 
 
