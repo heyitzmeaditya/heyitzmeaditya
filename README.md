@@ -97,14 +97,17 @@
 <div align="center">
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🔥%20Streak%20Mode-ENABLED-0ea5e9?style=for-the-badge&labelColor=0f172a&color=3b82f6">
-
-<img src="https://img.shields.io/badge/📅%20Active%20Days-Consistent-22c55e?style=for-the-badge&labelColor=0f172a">
-
-<img src="https://img.shields.io/badge/⚡%20Developer%20Momentum-High-f43f5e?style=for-the-badge&labelColor=0f172a">
-
+  <img src="https://img.shields.io/badge/Streak%20Status-Active-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=0ea5e9">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20Active-7%20Days-38bdf8?style=for-the-badge&color=6366f1&labelColor=1e293b">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engagement-Strong-ec4899?style=for-the-badge&labelColor=1e293b">
+</p>
+
 
 
 
