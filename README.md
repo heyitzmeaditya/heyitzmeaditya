@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Saw!;Full+Stack+Developer;Backend+Engineer;DSA+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://imgur.com/oCaEOFE.png" width="100%" />
 </p>
+
 
 ---
 
