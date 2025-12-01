@@ -1,36 +1,21 @@
-<!-- ======================================== -->
-<!-- 🌈 PREMIUM GLASS + NEON TYPING BANNER -->
-<!-- ======================================== -->
+<!-- ========================================= -->
+<!-- 🌌 ULTRA-PREMIUM NEON + GLASS HERO -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aditya+Saw+🚀;Full+Stack+Developer;Backend+Architect;MERN+%2B+Next.js+Specialist;System+Design+%26+DSA+Enthusiast;Welcome+to+My+Digital+Universe+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=700&color=38BDF8,AE7AFF,FF47A3,00F6FF&center=true&vCenter=true&width=1200&lines=Hi+I'm+Aditya+Saw+🚀;Full+Stack+Developer+%7C+Backend+Engineer;Next.js+%2F+MERN+Specialist;System+Design+%26+DSA+Enthusiast;Welcome+to+My+GitHub+Universe+✨" />
 </p>
-
-<!-- ======================================== -->
-<!-- 🎮 RETRO ARCADE INTRO -->
-<!-- ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+GITHUB+ARCADE;PRESS+START+TO+BEGIN;LOADING+SKILLS...;BOOTING+FULL+STACK+DEVELOPER+MODE..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=INSERT+COIN...;STARTING+DEVELOPER+MODE...;LOADING+NEXT+LEVEL...;UPGRADING+SKILLS..." />
 </p>
 
-<!-- ======================================== -->
-<!-- 🎮 PLAYSTATION DIVIDER -->
-<!-- ======================================== -->
-<p align="center">
-  🎮 ✖️ ⭕ 🔺 ▢ 🎮
-</p>
-
-<div align="center">
-
-## ⚡ Building scalable apps · Solving complex problems · Writing clean code  
-### 🔥 “Consistency makes you unstoppable.”
-
-</div>
+<p align="center">🎮 ✖️ ⭕ 🔺 ▢ 🎮</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:adityasaw407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/heyitzmeaditya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -40,21 +25,23 @@
 
 ---
 
-# 🟣 Discord — Live Status
+## 🧬 Live Discord Status
+
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/heyitzmeaditya?theme=dark&borderRadius=8px&idleMessage=Probably%20building%20something%20cool%20💻" />
+  <img src="https://lanyard.cnrad.dev/api/heyitzmeaditya?theme=dark&borderRadius=10px&animated=true&idleMessage=Probably%20building%20something%20cool%20💻" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-✨ Full-Stack Developer (MERN + Next.js)  
-⚙️ Backend engineering: scalable APIs, JWT, Redis, CI/CD  
-🧠 DSA & system design enthusiast  
-🔥 Passionate about beautiful UI + powerful backend systems  
-📊 Strong experience with MongoDB, PostgreSQL & MySQL  
-🎮 Love gaming, clean UI, and futuristic design  
+- ✨ Full-Stack Developer focused on **Next.js + MERN**
+- ⚙️ Deep interest in **backend architecture, APIs & scalability**
+- 🧠 Strong base in **DSA, C++ & problem solving**
+- 🔐 Comfortable with **auth, JWT, sessions, security & Redis**
+- 📊 Work with **MongoDB · PostgreSQL · MySQL**
+- 🎮 Tech + gaming + design mindset — love **clean, futuristic UIs**
+- 🎯 Goal: **Top 1% developer** with strong full-stack & system design skills
 
 ---
 
@@ -62,107 +49,184 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-# 🛠 Tech Stack – 3D Premium Wall
+## 🛠 Tech Stack — 3D Neon Wall
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,python,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,mongodb,mysql,postgres,redis,git,github,docker,cloudflare,vscode,cpp,java,python&theme=light" />
+</p>
+---
+## 📊 Animated Skill Radar (Neon Edition)
+
+<p align="center">
+
+<!-- React / Next.js -->
+<img src="https://svg-badge.vercel.app/api/progress?title=React%20%2F%20Next.js&percent=90&color=38BDF8&animation=1200" />
+
+<!-- Tailwind / CSS -->
+<img src="https://svg-badge.vercel.app/api/progress?title=Tailwind%20%2F%20CSS&percent=85&color=AE7AFF&animation=1400" />
+
+<!-- Node.js / Express -->
+<img src="https://svg-badge.vercel.app/api/progress?title=Node.js%20%2F%20Express&percent=88&color=FF47A3&animation=1500" />
+
+<!-- Auth / JWT -->
+<img src="https://svg-badge.vercel.app/api/progress?title=Auth%20%2F%20JWT%20%2F%20APIs&percent=85&color=00E6FF&animation=1600" />
+
+<!-- Redis -->
+<img src="https://svg-badge.vercel.app/api/progress?title=Redis%20%2F%20Caching&percent=70&color=14B8A6&animation=1700" />
+
+<!-- Databases -->
+<img src="https://svg-badge.vercel.app/api/progress?title=MongoDB%20%2F%20SQL&percent=80&color=FACC15&animation=1800" />
+
+<!-- System Design -->
+<img src="https://svg-badge.vercel.app/api/progress?title=System%20Design&percent=65&color=FB7185&animation=1900" />
+
+<!-- DSA -->
+<img src="https://svg-badge.vercel.app/api/progress?title=DSA%20%2F%20Algorithms&percent=78&color=6366F1&animation=2000" />
+
+</p>
+
+## 🧠 Developer Terminal
+
+root@aditya:~$ whoami
+> Full Stack Developer | Backend Engineer
+
+root@aditya:~$ skills --core
+> Next.js, React, Node.js, Express, MongoDB, SQL, Redis, JWT, DSA
+
+root@aditya:~$ now
+> Coding, learning, and levelling up every day ⚡
+
+root@aditya:~$ mission
+> Build real products · Solve hard problems · Stay unstoppable
+
+## 🎮 Mini Games Zone
+
+### 🐍 Snake (Contribution Snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+### 🎮 Tetris
+<p align="center">
+  <a href="https://tetris.com/play-tetris">
+    <img src="https://img.shields.io/badge/Play_Tetris-FF47A3?style=for-the-badge&logo=gamejolt&logoColor=white" />
+  </a>
+</p>
+
+### 🕹️ Flappy Bird
+<p align="center">
+  <a href="https://flappybird.io/">
+    <img src="https://img.shields.io/badge/Play_Flappy_Bird-38BDF8?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
+## ⚔️ DSA — LeetCode Journey
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---
 
-# ⚔️ DSA — LeetCode Journey
+## 🏆 Achievements — Neo Medal Edition
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aditya_100_?theme=dark&font=Fira+Code&ext=activity" />
+  <img src="https://img.shields.io/badge/300%2B_DSA_Problems-AE7AFF?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Full_Stack_Engineer-38BDF8?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Backend_Specialist-FF47A3?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Next.js_Focused-00E6FF?style=for-the-badge&labelColor=0f172a" />
 </p>
 
 ---
 
-# 🏆 Achievements (Glass Cards)
+## 🚀 Featured Projects — One-Liner Cards
+
+🔐 **Secure Notes App (MERN + JWT + Redis)**  
+Encrypted notes system with JWT auth, Redis caching & production-ready Node backend.
+
+📊 **Marketing Analytics Dashboard (Tableau + Excel)**  
+Interactive dashboard showing insights, performance metrics & client analytics.
+
+📱 **Task Manager App (MERN + Auth)**  
+Clean task workflow application with CRUD, protected routes & modern UI.
+
+🛒 **E-Commerce API (Node.js + Stripe)**  
+REST API for products, users, cart, and payments with Stripe integration.
+
+💬 **Real-Time Chat App (Node + Socket.io)**  
+Multi-room real-time chat with typing indicators & message persistence.
+
+🧠 **DSA Visualizer**  
+Visual tool to understand sorting, recursion & binary trees.
+
+🔗 **URL Shortener (Node + Redis)**  
+Fast link shortener with Redis caching & analytics.
+
+---
+
+## 🧭 Developer Journey Roadmap
+2022 → Started coding, explored basics of programming
+2023 → Focused on C++, DSA, problem solving and core CS
+2024 → Built backends, dashboards, and real projects for people
+2025 → Leveling up in Next.js, MERN, DevOps & system design
+2026 → Target: Strong full-stack engineer with deep backend + DSA
+
+
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
-
-<img src="https://img.shields.io/badge/300%2B_DSA_Problems-Gradient?style=for-the-badge&color=14b8a6&labelColor=0f172a" />
-
-<img src="https://img.shields.io/badge/Full_Stack_Developer-Gradient?style=for-the-badge&color=6366f1&labelColor=0f172a" />
-
-<img src="https://img.shields.io/badge/Backend_Engineer-Gradient?style=for-the-badge&color=ec4899&labelColor=0f172a" />
-
-<img src="https://img.shields.io/badge/Next.js_Specialist-Gradient?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=heyitzmeaditya&theme=juicyfresh&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 💼 Experience (Premium Timeline)
+## 📊 GitHub Analytics — Glass + Neon
 
-```diff
-+ 2025 — Full Stack Developer (Next.js, MERN, DevOps)
-  • Built secure MERN apps with JWT, Redis, scalable API design
-  • Worked on dashboards, client systems, automations
-
-+ 2024 — Data & Marketing Systems Developer
-  • Created marketing dashboards (Excel + Tableau)
-  • Automated reports and analytics
-
-+ 2023 — DSA & Backend Foundations
-  • Mastered C++, problem solving, algorithms
-
-
----
-
-# 🚀 **Featured Projects**
-
-### 🔐 **Secure Notes App — (JWT + Redis + Node.js + React)**
-- Fully encrypted storage  
-- Advanced auth system  
-- Scalable MERN architecture  
-
-### 📊 **Marketing Dashboard — (Tableau + Excel)**
-- Complete analytics  
-- Trend insights & data forecasting  
-
-### 📱 **Task Manager — (MERN + JWT Auth)**
-- Complete CRUD + Login/Auth  
-- Clean UI + Modern backend  
-
----
-
-# 📊 **GitHub Analytics — Premium Edition**
-
-## 🔥 **Neon Streak Card (Custom Premium)**
+### ⚡ Custom Neon Streak (Always Works)
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20GitHub%20Streak-Active-%23ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8b5cf6" />
-  <br/>
-  <img src="https://img.shields.io/badge/⚡%20Consistency-High-%2300eaff?style=for-the-badge&labelColor=0d1117&color=14b8a6" />
-  <br/>
-  <img src="https://img.shields.io/badge/🚀%20Momentum-Strong-%23A855F7?style=for-the-badge&labelColor=0d1117&color=6366f1" />
+  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1"><br/>
+  <img src="https://img.shields.io/badge/⚡_Consistency-High-38BDF8?style=for-the-badge&labelColor=0f172a&color=14B8A6"><br/>
+  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-AE7AFF?style=for-the-badge&labelColor=0f172a&color=EC4899">
 </p>
 
 ---
 
-## 📈 **GitHub Stats (Glass + Neon Premium UI)**
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
 </p>
 
 ---
 
-# 🐍 **Snake Contribution Animation**
+## 🧪 Most Used Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-# ✨ **Visitors**
+## 🔥 Activity Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heyitzmeaditya&style=for-the-badge&color=4ade80" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitzmeaditya&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<h2 align="center">🔥 “Striving to be the best — every single day.” 🔥</h2>
+## 🎮 Gamer Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/XP-9000%2B-00E676?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill_Level-Legendary-FF4757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Class-Full_Stack_Developer-1E90FF?style=for-the-badge" />
+</p>
+
+---
+
+## 👁 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heyitzmeaditya&style=for-the-badge&color=38BDF8" />
+</p>
+
+---
+
+<h2 align="center">🔥 Becoming Better Every Single Day 🔥</h2>
+
+
