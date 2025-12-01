@@ -94,18 +94,18 @@
 
 ---
 
-# 📈 **GitHub Analytics — SUPER ADVANCED UI**
+## 📊 GitHub Analytics — SUPER ADVANCED UI
 
 <div align="center">
 
 ### 🔥 GitHub Streak  
-<img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=tokyonight&hide_border=true" height="190"/>
+<img src="https://streak-stats.demolab.com?user=heyitzmeaditya&theme=radical&hide_border=true&border_radius=6" height="190" />
 
-### 📊 Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
+### 📈 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=radical&hide_border=true&rank_icon=default" height="190" />
 
-### 🧪 Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+### 🧪 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=radical&hide_border=true" height="190" />
 
 </div>
 
